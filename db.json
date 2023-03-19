@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "dashboard": [
+    {
+      "id": 1,
+      "rank": 1,
+      "score": "99999",
+      "player_name": "new player"
+    }
+  ],
+  "intro": {
+    "name": "Snake Dual"
+  }
+}
